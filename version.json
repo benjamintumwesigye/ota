@@ -1,7 +1,22 @@
 {
-  "version":4,
+  "version":5,
   "files": [
     "main.py",
-    "screen.py"
+    "access_point.py",
+    "access_pointv1.py",
+    "api_calls.py",
+    "i2c_lcd.py",
+    "lcd_utils.py",
+    "messages.py",
+    "screen.py",
+    "server.py",
+    "styles.py",
+    "time_sync.py",
+    "utils.py",
+    "wifi_connect.py",
+    "wifi_config.json",
+    "wifi_monitor.py",
+    "microwebsrv/",
+    "microwebsrv/www/"
   ]
 }
