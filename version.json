@@ -1,5 +1,5 @@
 {
-  "version":6,
+  "version":2,
   "files": [
     "main.py",
     "access_point.py",
@@ -17,6 +17,7 @@
     "wifi_connect.py",
     "wifi_config.json",
     "wifi_monitor.py",
+    "MicroWebSrv",
     "MicroWebSrv/",
     "MicroWebSrv/www/"
   ]
