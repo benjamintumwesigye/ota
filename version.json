@@ -7,6 +7,7 @@
     "api_calls.py",
     "i2c_lcd.py",
     "lcd_utils.py",
+    "lcd_api.py",
     "messages.py",
     "screen.py",
     "server.py",
