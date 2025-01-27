@@ -17,7 +17,7 @@
     "wifi_connect.py",
     "wifi_config.json",
     "wifi_monitor.py",
-    "microwebsrv/",
-    "microwebsrv/www/"
+    "MicroWebSrv/",
+    "MicroWebSrv/www/"
   ]
 }
